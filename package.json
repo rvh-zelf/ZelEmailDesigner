@@ -1,0 +1,22 @@
+{
+  "name": "mjml-email-designer",
+  "version": "1.0.0",
+  "description": "MJML-based HTML email compiler for agentic workflows",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mjml",
+    "email",
+    "html",
+    "compiler"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "mjml": "^5.3.0",
+    "puppeteer-core": "^25.1.0"
+  }
+}
